@@ -25,7 +25,7 @@
 - Clone this repo to your local machine using `https://github.com/ArthurPaes/Damage-calculator.git`
 ```shell
 $ git init
-$ git clone
+$ git clone 
 ```
 ### Setup
 
@@ -34,7 +34,7 @@ $ git clone
 
 ```shell
 $ yarn 
-$ brew install fvcproductions
+$ npm install
 ```
 
 

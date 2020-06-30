@@ -20,7 +20,12 @@
 
 
 
-
+# Tools used 
+<a href="https://nodejs.org/en/">Node.js</a>  <br/>
+<a href="https://www.javascript.com/">JavaScript</a> <br/>
+<a href="">HTML5</a> <br/>
+<a href="">CSS</a> <br/>
+<a href="https://reactnative.dev/">React Native</a>
 
 
 ## Installation
@@ -41,7 +46,6 @@ $ git clone https://github.com/ArthurPaes/Damage-calculator.git
 $ yarn 
 $ npm install
 ```
-
 
 
 

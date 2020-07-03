@@ -32,9 +32,8 @@
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/ArthurPaes/Damage-calculator.git`
+- Clone this repo to your local machine using:
 ```shell
-$ git init
 $ git clone https://github.com/ArthurPaes/Damage-calculator.git
 ```
 ### Setup

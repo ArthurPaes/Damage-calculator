@@ -16,9 +16,9 @@
 </h1>
 
 ## Example
-![screens](https://user-images.githubusercontent.com/47614825/86074896-2729d800-ba5d-11ea-89e4-848f75990d17.gif)
-
-
+<h1 align="center">
+    <img alt="DmgCalc" src="https://user-images.githubusercontent.com/47614825/86074896-2729d800-ba5d-11ea-89e4-848f75990d17.gif" />
+</h1>
 
 # Tools used 
 <a href="https://nodejs.org/en/">Node.js</a>  <br/>

@@ -11,10 +11,10 @@
 
 ## Screen
 
-
 <h1 align="center">
-![bg-calculator-1](https://user-images.githubusercontent.com/47614825/86076498-8ccb9380-ba60-11ea-8124-c32ad77e676e.gif)
+    <img alt="DmgCalc" src="https://user-images.githubusercontent.com/47614825/86076498-8ccb9380-ba60-11ea-8124-c32ad77e676e.gif" />
 </h1>
+
 ## Example
 ![screens](https://user-images.githubusercontent.com/47614825/86074896-2729d800-ba5d-11ea-89e4-848f75990d17.gif)
 

@@ -51,7 +51,6 @@ $ react-native start
 ```
 > Finally open your emulator and install the project:
 ```shell
-$ 
 $ npx react-native run-android
 ```
 

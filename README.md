@@ -23,8 +23,8 @@
 # Tools used 
 <a href="https://nodejs.org/en/">Node.js</a>  <br/>
 <a href="https://www.javascript.com/">JavaScript</a> <br/>
-<a href="">HTML5</a> <br/>
-<a href="">CSS</a> <br/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">HTML5</a> <br/>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a> <br/>
 <a href="https://reactnative.dev/">React Native</a>
 
 

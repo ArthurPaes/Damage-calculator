@@ -2,7 +2,7 @@
 
 # Damage-Calculator
 
-> Simple app built to calculate the damage of my blackguard character on a Dungeons and Dragons campaign
+> Simple app built to calculate the damage of a blackguard character on a Dungeons and Dragons campaign
 
 
 
